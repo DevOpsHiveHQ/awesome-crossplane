@@ -16,7 +16,7 @@ Contributions are welcome, add links through [pull requests](https://github.com/
 
 ## Guides
 
-Kustomize guides based on their level or type like 📰 Article, 📺 Video, 🧪 Lab.
+Crossplane guides based on their level or type like 📰 Article, 📺 Video, 🧪 Lab.
 
 ### Novice
 
