@@ -12,3 +12,12 @@
 [Crossplane](https://www.crossplane.io/) is an open-source Kubernetes add-on that extends Kubernetes to manage and provision cloud infrastructure resources using Kubernetes-style configurations.
 
 Contributions are welcome, add links through [pull requests](https://github.com/aabouzaid/awesome-crossplane/pulls) or create an issue to start a discussion.
+
+
+## Guides
+
+Crossplane guides based on their level or type like 📰 Article, 📺 Video, 🧪 Lab.
+
+### Novice
+
+- 📰 [Kubernetes Cluster Provisioning using Crossplane](https://www.infracloud.io/blogs/cluster-provisioning-using-crossplane/) - A good start to understanding crossplane.
