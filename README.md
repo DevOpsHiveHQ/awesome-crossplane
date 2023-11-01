@@ -20,4 +20,13 @@ Crossplane guides based on their level or type like 📰 Article, 📺 Video, �
 
 ### Novice
 
-- 📰 [Kubernetes Cluster Provisioning using Crossplane](https://www.infracloud.io/blogs/cluster-provisioning-using-crossplane/) - A good start to understanding crossplane.
+- 📺 [Crossplane on Kubernetes Explained](https://www.youtube.com/watch?v=2l8j_yxJbow) - A quick overview of how Crossplane enables platform teams to manage their infrastructure and managed services on cloud providers like AWS.
+- 📰 [Crossplane, a Game Changer for Your Multi-Cloud Strategy](https://www.devoteam.com/expert-view/crossplane-a-game-changer-for-your-multi-cloud-strategy/) - An overview of Crossplane and its advantages.
+- 📰 [Kubernetes Cluster Provisioning using Crossplane](https://www.infracloud.io/blogs/cluster-provisioning-using-crossplane/) - A good start to understanding Crossplane.
+- 📰 [Crossplane as an OpenShift Operator to manage and provision cloud-native services](https://blog.crossplane.io/crossplane-openshift-operator-cloud-native-services/) - Using Crossplane in Red Hat OpenShift to manage external services.
+
+### Intermediate
+
+- 📰 [Tame the multi-cloud beast with Crossplane: Let’s start with AWS S3](https://www.codecentric.de/wissens-hub/blog/crossplane) - The cloud native way to do GitOps.
+- 📰 [Crossplane as an abstraction platform to manage and deploy service Operators](https://next.redhat.com/2021/03/31/crossplane-as-an-abstraction-platform-to-manage-and-deploy-service-operators/) - Creating a custom Crossplane provider with Operator Lifecycle Manager (OLM) support.
+- 📺 [Build your own cloud platform with Crossplane featuring](https://www.youtube.com/watch?v=XqPpdF7kZgA) - Build your own API with Crossplane.
