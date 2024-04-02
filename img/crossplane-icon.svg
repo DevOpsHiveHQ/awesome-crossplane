@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg40"
+   sodipodi:docname="crossplane.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview42"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.4054054"
+     inkscape:cx="46.690476"
+     inkscape:cy="2.9365079"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg40" />
+  <svg:defs
+     id="defs5">
+    <svg:path
+       id="a"
+       d="m 0.136,9.121 a 10.009,10.009 0 0 0 0.002,0.912 C 0.134,10.111 0.126,10.188 0.126,10.267 V 25.63 c 0,2.938 2.398,5.342 5.329,5.342 h 8.02 c 2.93,0 5.329,-2.404 5.329,-5.342 V 10.267 c 0,-0.09 -0.01,-0.176 -0.014,-0.264 A 9.12,9.12 0 0 0 18.791,9.121 C 18.565,4.153 14.475,0.196 9.464,0.196 4.452,0.196 0.362,4.153 0.136,9.12 Z" />
+    <svg:path
+       id="c"
+       d="m 0.136,9.121 a 10.009,10.009 0 0 0 0.002,0.912 C 0.134,10.111 0.126,10.188 0.126,10.267 V 25.63 c 0,2.938 2.398,5.342 5.329,5.342 h 8.02 c 2.93,0 5.329,-2.404 5.329,-5.342 V 10.267 c 0,-0.09 -0.01,-0.176 -0.014,-0.264 A 9.12,9.12 0 0 0 18.791,9.121 C 18.565,4.153 14.475,0.196 9.464,0.196 4.452,0.196 0.362,4.153 0.136,9.12 Z" />
+    <svg:path
+       id="e"
+       d="m 0.136,9.121 a 10.009,10.009 0 0 0 0.002,0.912 C 0.134,10.111 0.126,10.188 0.126,10.267 V 25.63 c 0,2.938 2.398,5.342 5.329,5.342 h 8.02 c 2.93,0 5.329,-2.404 5.329,-5.342 V 10.267 c 0,-0.09 -0.01,-0.176 -0.014,-0.264 A 9.12,9.12 0 0 0 18.791,9.121 C 18.565,4.153 14.475,0.196 9.464,0.196 4.452,0.196 0.362,4.153 0.136,9.12 Z" />
+  </svg:defs>
+  <script
+     id="bw-fido2-page-script" />
+  <svg:g
+     id="g1085"
+     transform="matrix(1.4133928,0,0,1.4133928,18.655041,4.579175)">
+    <svg:path
+       fill="#f7d186"
+       d="m 9.351,12.989 a 2.344,2.344 0 0 0 -2.34,2.346 v 22.08 a 2.343,2.343 0 0 0 2.34,2.346 c 1.293,0 2.341,-1.05 2.341,-2.346 v -22.08 a 2.344,2.344 0 0 0 -2.34,-2.346"
+       id="path7"
+       style="fill-rule:evenodd" />
+    <svg:path
+       fill="#ff9234"
+       d="m 18.744,10.095 a 9.554,9.554 0 0 0 0,-0.882 C 18.52,4.245 14.43,0.287 9.418,0.287 4.406,0.287 0.316,4.245 0.09,9.213 a 9.533,9.533 0 0 0 0.001,0.912 C 0.088,10.203 0.08,10.28 0.08,10.359 v 15.363 c 0,2.938 2.398,5.342 5.329,5.342 h 8.02 c 2.93,0 5.328,-2.404 5.328,-5.342 V 10.359 c 0,-0.09 -0.009,-0.176 -0.013,-0.264"
+       id="path9"
+       style="fill-rule:evenodd" />
+    <svg:g
+       transform="translate(0,0.092)"
+       id="g16"
+       style="fill:none;fill-rule:evenodd">
+      <svg:mask
+         id="b"
+         fill="#ffffff">
+        <svg:use
+           xlink:href="#a"
+           id="use11"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </svg:mask>
+      <svg:path
+         fill="#ffcd3c"
+         d="M 24.4,9.414 1.237,32.632 -5.623,25.755 17.539,2.537 Z"
+         mask="url(#b)"
+         id="path14" />
+    </svg:g>
+    <svg:g
+       transform="translate(0,0.092)"
+       id="g23"
+       style="fill:none;fill-rule:evenodd">
+      <svg:mask
+         id="d"
+         fill="#ffffff">
+        <svg:use
+           xlink:href="#c"
+           id="use18"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </svg:mask>
+      <svg:path
+         fill="#f3807b"
+         d="M 17.518,2.515 -5.644,25.733 -14.18,17.176 8.98,-6.042 Z"
+         mask="url(#d)"
+         id="path21" />
+    </svg:g>
+    <svg:g
+       transform="translate(0,0.092)"
+       id="g30"
+       style="fill:none;fill-rule:evenodd">
+      <svg:mask
+         id="f"
+         fill="#ffffff">
+        <svg:use
+           xlink:href="#e"
+           id="use25"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </svg:mask>
+      <svg:path
+         fill="#35d0ba"
+         d="M 31.282,16.313 8.12,39.53 1.26,32.653 24.422,9.436 Z"
+         mask="url(#f)"
+         id="path28" />
+    </svg:g>
+    <svg:path
+       fill="#d8ae64"
+       d="m 7.646,31.09 4.06,4.07 v -4.104 l -4.06,0.034"
+       id="path32"
+       style="fill-rule:evenodd" />
+  </svg:g>
+</svg:svg>
