@@ -27,6 +27,10 @@ Crossplane guides based on their level or type like 📰 Article, 📺 Video, �
 
 ### Intermediate
 
-- 📰 [Tame the multi-cloud beast with Crossplane: Let’s start with AWS S3](https://www.codecentric.de/wissens-hub/blog/crossplane) - The cloud native way to do GitOps.
+- 📰 [Tame the multi-cloud beast with Crossplane: Let’s start with AWS S3](https://www.codecentric.de/wissens-hub/blog/crossplane) - The cloud-native way to do GitOps.
 - 📰 [Crossplane as an abstraction platform to manage and deploy service Operators](https://next.redhat.com/2021/03/31/crossplane-as-an-abstraction-platform-to-manage-and-deploy-service-operators/) - Creating a custom Crossplane provider with Operator Lifecycle Manager (OLM) support.
 - 📺 [Build your own cloud platform with Crossplane featuring](https://www.youtube.com/watch?v=XqPpdF7kZgA) - Build your own API with Crossplane.
+
+## Misc
+
+- [Crossplane Bootstrapper](https://github.com/DevOpsHiveHQ/crossplane-bootstrapper) - Start the initial setup of Crossplane from a local Kubernetes cluster.
